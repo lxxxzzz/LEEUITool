@@ -18,19 +18,19 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+测试工具类.
                        DESC
 
-  s.homepage         = 'https://github.com/Danny.li/LEEUITool'
+  s.homepage         = 'https://github.com/lxxxzzz/LEEUITool'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Danny.li' => 'danny.li@gmsspace.com' }
-  s.source           = { :git => 'https://github.com/Danny.li/LEEUITool.git', :tag => s.version.to_s }
+  s.author           = { 'Danny.li' => 'lxxxzzz@qq.com' }
+  s.source           = { :git => 'https://github.com/lxxxzzz/LEEUITool.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'LEEUITool/Classes/**/*'
+  s.vendored_frameworks = 'Framework/UITool.framework'
   
   # s.resource_bundles = {
   #   'LEEUITool' => ['LEEUITool/Assets/*.png']

@@ -1,0 +1,16 @@
+PODS:
+  - LEEUITool (0.1.0)
+
+DEPENDENCIES:
+  - LEEUITool (from `../`)
+
+EXTERNAL SOURCES:
+  LEEUITool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LEEUITool: 4f4027960c65d4bcb784ad30e847fff656ea1fc4
+
+PODFILE CHECKSUM: caa1344a459740d4ed59e3b5a4d9b30a8ac6c98f
+
+COCOAPODS: 1.11.2

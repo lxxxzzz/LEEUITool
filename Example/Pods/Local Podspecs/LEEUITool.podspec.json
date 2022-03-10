@@ -1,0 +1,22 @@
+{
+  "name": "LEEUITool",
+  "version": "0.1.0",
+  "summary": "A short description of LEEUITool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Danny.li/LEEUITool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Danny.li": "danny.li@gmsspace.com"
+  },
+  "source": {
+    "git": "https://github.com/Danny.li/LEEUITool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LEEUITool/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Pods_LEEUITool_Example {
+  umbrella header "Pods-LEEUITool_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

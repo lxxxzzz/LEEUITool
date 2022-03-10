@@ -1,0 +1,6 @@
+framework module LEEUITool {
+  umbrella header "LEEUITool-umbrella.h"
+
+  export *
+  module * { export * }
+}
